@@ -54,3 +54,6 @@ A key differentiator in this project was the deep dive into the **STM32F446xx Da
 | **Flash Usage** | ~20–25 KB (Library Overhead) | **~8 KB (C-Stdlib included)** |
 | **Logic Speed** | Higher overhead (HAL callbacks) | **Deterministic / Minimal Jitter** |
 | **Abstraction** | Heavy ST HAL / LL Drivers | **Pure Register-to-Silicon Manipulation** |
+
+**Link to HAL-Level CLI**
+https://github.com/Shaurya-singh21/STM32-F446-Register-Kernel
