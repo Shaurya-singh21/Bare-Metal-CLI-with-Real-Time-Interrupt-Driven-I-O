@@ -1,4 +1,4 @@
-# STM32-F446-Register-Kernel: Pure Bare-Metal Firmware CLI
+# Bare-Metal UART CLI with Real-Time Interrupt-Driven I/O4
 
 This project implements a high-performance, **zero-abstraction** Command Line Interface (CLI) for the STM32F446RE (ARM Cortex-M4). While my previous project (image_624f13.png) utilized the ST HAL library for rapid prototyping, this kernel was built entirely using **Direct Register Manipulation** to achieve deterministic interrupt latency and a minimal binary footprint.
 
